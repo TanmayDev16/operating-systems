@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "settings.h": "c",
+    "dfs.h": "c",
+    "shared_mem.h": "c"
+  }
+}
